@@ -1,0 +1,7 @@
+# The deployed site is only the static dashboard; keep the Python pipeline out
+# so Vercel doesn't try to treat the repo as a Python function.
+requirements.txt
+rrpi/
+outputs/
+config.json
+README.md
