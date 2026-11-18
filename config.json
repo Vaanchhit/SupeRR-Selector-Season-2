@@ -1,0 +1,28 @@
+{
+  "data_dir": "..",
+  "out_dir": "outputs",
+  "seed": 20271118,
+  "main_tiers": ["IPL", "T20I-FM"],
+  "pressure": {
+    "primary": "LI",
+    "li_quantile": 0.75,
+    "sensitivity_quantiles": [0.70, 0.80, 0.90],
+    "close_late_wp_band": 0.25,
+    "close_late_min_over": 14
+  },
+  "eligibility": {
+    "bat_min_pressure_balls": 60,
+    "bat_min_pressure_matches": 8,
+    "bowl_min_pressure_balls": 60,
+    "bowl_min_pressure_matches": 8,
+    "sensitivity_min_balls": [40, 100, 150]
+  },
+  "validation": {
+    "weight_fit": {"ratings": [2022, 2023], "target": [2024]},
+    "holdout": {"ratings": [2022, 2023, 2024], "target": [2025, 2026]},
+    "min_target_pressure_balls": 30
+  },
+  "bootstrap_reps": 300,
+  "full_members": ["Afghanistan", "Australia", "Bangladesh", "England", "India", "Ireland",
+                   "New Zealand", "Pakistan", "South Africa", "Sri Lanka", "West Indies", "Zimbabwe"]
+}

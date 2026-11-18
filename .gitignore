@@ -1,0 +1,12 @@
+# Proprietary competition data and anything derived at delivery level stay local
+outputs/intermediate/
+*.parquet
+*.csv.gz
+../*.csv
+# Local tooling
+.venv/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+outputs/stage2.log

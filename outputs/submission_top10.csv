@@ -1,0 +1,21 @@
+list,rank,player,clutch_index,p_top10,pressure_balls,pressure_matches
+bat,1,Phil Salt,100.0,0.803,364.0,52.0
+bat,2,Shreyas Iyer,99.5,0.817,425.0,58.0
+bat,3,Reeza Hendricks,98.9,0.69,232.0,26.0
+bat,4,Heinrich Klaasen,98.4,0.297,318.0,55.0
+bat,5,Vaibhav Sooryavanshi,97.8,0.313,202.0,28.0
+bat,6,Cameron Green,97.3,0.277,301.0,45.0
+bat,7,Rinku Singh,96.8,0.18,292.0,55.0
+bat,8,Shashank Singh,96.2,0.24,159.0,28.0
+bat,9,Mitchell Marsh,95.7,0.187,440.0,57.0
+bat,10,Harry Brook,95.1,0.267,182.0,35.0
+bowl,1,Sunil Narine,100.0,0.823,408.0,52.0
+bowl,2,Shakib Al Hasan,99.5,0.677,84.0,13.0
+bowl,3,Murugan Ashwin,98.9,0.617,62.0,9.0
+bowl,4,Ottneil Baartman,98.4,0.617,60.0,12.0
+bowl,5,Sufiyan Muqeem,97.9,0.4,83.0,9.0
+bowl,6,Gerald Coetzee,97.4,0.32,119.0,26.0
+bowl,7,Krunal Pandya,96.8,0.263,328.0,48.0
+bowl,8,Mohammad Nawaz,96.3,0.3,216.0,33.0
+bowl,9,Josh Hazlewood,95.8,0.297,405.0,52.0
+bowl,10,Bhuvneshwar Kumar,95.2,0.217,580.0,82.0
